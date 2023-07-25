@@ -1,0 +1,27 @@
+.red {
+    color: red;
+    text-align: center;
+}
+
+.blue {
+    color: blue;
+    text-align-last: center;
+}
+
+.center {
+    text-decoration: none;
+    color: rgb(228, 19, 201);
+    margin-left: 500px;
+}
+
+body {
+    background-color: aquamarine;
+}
+.box{
+    text-align: center;
+    width: 300px;
+    height: 400px;
+    border: 1px solid rgb(7, 0, 1);
+    padding: 50px;
+    margin: 40px;
+}
